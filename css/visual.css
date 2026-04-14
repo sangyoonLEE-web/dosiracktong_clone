@@ -1,0 +1,30 @@
+.visual{
+    position: relative;
+    /* background-color: aqua; */
+    width: 100%;
+    height: 100vh;
+}
+
+.sw-swiper{
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide, .swiper-slide, .visual-box{
+    width: 100%;
+    height: 100%;
+}
+
+.visual-bg-1{
+    background: url("../images/images/main_visual_1.jpg");
+}
+
+.visual-bg-2{
+    background: url("../images/images/main_visual_2.jpg");
+}
+
+.visual-bg-3{
+    background: url("../images/images/main_visual_3.jpg");
+}
+.visual-bg-4{
+    background: url("../images/images/main_visual_4.jpg");
+}
